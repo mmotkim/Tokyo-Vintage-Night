@@ -2,7 +2,7 @@
   "name": "mmotkim",
   "displayName": "Zero-Two Vintage",
   "description": "VS Code Zero-Two-theme extension",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "publisher": "Mmotkim",
   "engines": {
     "vscode": "^1.83.0"
